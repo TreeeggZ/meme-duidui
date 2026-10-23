@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180" role="img" aria-labelledby="title desc">
+<title id="title">图库准备流程</title>
+<desc id="desc">导入图片：建立本地图库 → 整理信息：描述与标签 → 确认保存：更新本地图库 → 匹配与搜索：使用已有标签</desc>
+<rect width="960" height="180" rx="12" fill="#ffffff"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="none" stroke="#64748b" stroke-width="1.5"/></marker></defs>
+<g font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif">
+<rect x="16" y="28" width="208" height="124" rx="12" fill="#f1f6fb" stroke="#b6cbe0"/>
+<text x="34" y="58" font-size="14" fill="#54718e">01</text>
+<text x="120" y="91" text-anchor="middle" font-size="21" font-weight="600" fill="#1f2937">导入图片</text>
+<text x="120" y="123" text-anchor="middle" font-size="16" fill="#475569">建立本地图库</text>
+<path d="M229 90 H247" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="256" y="28" width="208" height="124" rx="12" fill="#f1f6fb" stroke="#b6cbe0"/>
+<text x="274" y="58" font-size="14" fill="#54718e">02</text>
+<text x="360" y="91" text-anchor="middle" font-size="21" font-weight="600" fill="#1f2937">整理信息</text>
+<text x="360" y="123" text-anchor="middle" font-size="16" fill="#475569">描述与标签</text>
+<path d="M469 90 H487" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="496" y="28" width="208" height="124" rx="12" fill="#f1f6fb" stroke="#b6cbe0"/>
+<text x="514" y="58" font-size="14" fill="#54718e">03</text>
+<text x="600" y="91" text-anchor="middle" font-size="21" font-weight="600" fill="#1f2937">确认保存</text>
+<text x="600" y="123" text-anchor="middle" font-size="16" fill="#475569">更新本地图库</text>
+<path d="M709 90 H727" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="736" y="28" width="208" height="124" rx="12" fill="#f1f6fb" stroke="#b6cbe0"/>
+<text x="754" y="58" font-size="14" fill="#54718e">04</text>
+<text x="840" y="91" text-anchor="middle" font-size="21" font-weight="600" fill="#1f2937">匹配与搜索</text>
+<text x="840" y="123" text-anchor="middle" font-size="16" fill="#475569">使用已有标签</text>
+</g></svg>
